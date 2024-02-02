@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yogeshkumar8
-- 👀 I’m interested in software domain
-- 🌱 I’m currently learning
+- 👀 I’m interested in MERN Stak
+- 🌱 I’m currently lookinh for job or internship
 - 💞️ I’m looking to collaborate 
 - 📫 reach me via email -yks115952@gmail.com
 
